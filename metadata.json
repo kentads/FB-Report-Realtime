@@ -1,0 +1,5 @@
+{
+  "name": "FB Ads Realtime Dashboard",
+  "description": "Dashboard theo dõi hiệu suất quảng cáo Facebook thời gian thực với phân tích AI từ Gemini.",
+  "requestFramePermissions": []
+}
